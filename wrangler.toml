@@ -1,0 +1,12 @@
+name = "alumni-notifier"
+main = "src/index.ts"
+compatibility_date = "2025-09-14"
+workers_dev = true
+
+[triggers]
+crons = ["0 6 * * *"]
+
+[[d1_databases]]
+binding = "ALUMNI_DB"
+database_name = "alumni_db"
+database_id = "a58d092f-63dd-4a83-9130-14950194d3d7"
