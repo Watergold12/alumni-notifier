@@ -16,6 +16,7 @@ The Worker runs on a daily cron schedule and looks up alumni records in the D1 d
 ---
 
 ## 📂 Project Structure
+```text
 alumni-notifier/
 ├─ src/
 │ └─ index.ts # Worker source code
@@ -26,6 +27,7 @@ alumni-notifier/
 ├─ package-lock.json
 ├─ .gitignore
 └─ README.md
+```
 
 ---
 
