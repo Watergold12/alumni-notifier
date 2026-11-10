@@ -35,8 +35,8 @@ alumni-notifier/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Watergold12/alumni-notifier.git
+cd alumni-notifier
 ```
 
 ### 2. Install Wrangler
